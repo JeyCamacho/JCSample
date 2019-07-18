@@ -1,2 +1,2 @@
 # JCSample
-Jessica's first repository
+Jessica's first repository.
